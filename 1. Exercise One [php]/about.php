@@ -8,7 +8,7 @@
 
     <div>
 
-        <h1>About me: <br><em>Reskilling from Mechanical Engineering to Software Developer in a nutshell!</em> <pre></h1>
+        <h1>About me: <br/><em>Reskilling from Mechanical Engineering to Software Developer in a nutshell!</em> <pre></h1>
         <p>This page is a sample review of working with php made by purplebeam - Konstantinos Papageorgiou - Junior Developer</p>
     </div>
     </body>

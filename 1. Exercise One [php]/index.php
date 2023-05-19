@@ -9,7 +9,7 @@
     <div>
 
         <h1>Welcome to my first published in github .php file</h1>
-        <br>
+        <br/>
         <p>This page is a sample review of working with php made by purplebeam - Konstantinos Papageorgiou - Junior Developer</p>
     </div>
     </body>
